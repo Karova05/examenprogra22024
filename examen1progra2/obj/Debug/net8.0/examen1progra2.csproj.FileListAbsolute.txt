@@ -1,0 +1,14 @@
+C:\Users\Karla Valverde\source\repos\examen1progra2\examen1progra2\bin\Debug\net8.0\examen1progra2.exe
+C:\Users\Karla Valverde\source\repos\examen1progra2\examen1progra2\bin\Debug\net8.0\examen1progra2.deps.json
+C:\Users\Karla Valverde\source\repos\examen1progra2\examen1progra2\bin\Debug\net8.0\examen1progra2.runtimeconfig.json
+C:\Users\Karla Valverde\source\repos\examen1progra2\examen1progra2\bin\Debug\net8.0\examen1progra2.dll
+C:\Users\Karla Valverde\source\repos\examen1progra2\examen1progra2\bin\Debug\net8.0\examen1progra2.pdb
+C:\Users\Karla Valverde\source\repos\examen1progra2\examen1progra2\obj\Debug\net8.0\examen1progra2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karla Valverde\source\repos\examen1progra2\examen1progra2\obj\Debug\net8.0\examen1progra2.AssemblyInfoInputs.cache
+C:\Users\Karla Valverde\source\repos\examen1progra2\examen1progra2\obj\Debug\net8.0\examen1progra2.AssemblyInfo.cs
+C:\Users\Karla Valverde\source\repos\examen1progra2\examen1progra2\obj\Debug\net8.0\examen1progra2.csproj.CoreCompileInputs.cache
+C:\Users\Karla Valverde\source\repos\examen1progra2\examen1progra2\obj\Debug\net8.0\examen1progra2.dll
+C:\Users\Karla Valverde\source\repos\examen1progra2\examen1progra2\obj\Debug\net8.0\refint\examen1progra2.dll
+C:\Users\Karla Valverde\source\repos\examen1progra2\examen1progra2\obj\Debug\net8.0\examen1progra2.pdb
+C:\Users\Karla Valverde\source\repos\examen1progra2\examen1progra2\obj\Debug\net8.0\examen1progra2.genruntimeconfig.cache
+C:\Users\Karla Valverde\source\repos\examen1progra2\examen1progra2\obj\Debug\net8.0\ref\examen1progra2.dll

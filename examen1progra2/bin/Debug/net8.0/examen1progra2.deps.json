@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "examen1progra2/1.0.0": {
+        "runtime": {
+          "examen1progra2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "examen1progra2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
